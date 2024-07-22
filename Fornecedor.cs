@@ -10,14 +10,23 @@ public class Fornecedor
 {
         return nome; 
 } 
-    public void  SetId ( string Id)
+    public void  SetId ( int Id)
 { 
-    id = Id; 
+     This id = Id; 
 }
-    public string GetId()
-{
+    public int GetId()
+    {
+        return id; 
+    }
     public void SetCNPJ ( string CNPJ)
-}
+     {
+    
+     This CNPJ = CNPJ;
 
+     }
+     public string GetCNPJ ()
+     {
+        return GetCNP;
+     }
 
 }
