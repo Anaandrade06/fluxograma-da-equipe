@@ -33681,11 +33681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\fluxograma-da-equipe\\fluxograma-da-equipe\\Flucograma_daequipe\\Flucograma_daequipe.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\fluxograma-da-equipe\\Flucograma_daequipe\\Flucograma_daequipe.csproj",
       "projectName": "Flucograma_daequipe",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\fluxograma-da-equipe\\fluxograma-da-equipe\\Flucograma_daequipe\\Flucograma_daequipe.csproj",
+      "projectPath": "C:\\Users\\Aluno\\fluxograma-da-equipe\\Flucograma_daequipe\\Flucograma_daequipe.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\fluxograma-da-equipe\\fluxograma-da-equipe\\Flucograma_daequipe\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\fluxograma-da-equipe\\Flucograma_daequipe\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

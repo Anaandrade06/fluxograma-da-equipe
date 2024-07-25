@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+9Y32vQtsmCcxI4Bye1sh+5vunxzJ0J4sr8uOkTGV744H2CZKYD6q46v6CmrRq5DlJc+SNBAPtUSiOzY1z/+A==",
+  "dgSpecHash": "baZ79mi8PbcexdU5wDZvczMx/z+IUfynuqWmjcdzPQzUjavcVLIDctzlhM2suH0OOCPtObz0bGfrrNBBgDRQGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Desktop\\fluxograma-da-equipe\\fluxograma-da-equipe\\Flucograma_daequipe\\Flucograma_daequipe.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\fluxograma-da-equipe\\Flucograma_daequipe\\Flucograma_daequipe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
